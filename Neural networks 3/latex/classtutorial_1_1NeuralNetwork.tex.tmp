@@ -1,0 +1,33 @@
+\doxysection{tutorial.\+Neural\+Network Class Reference}
+\hypertarget{classtutorial_1_1NeuralNetwork}{}\label{classtutorial_1_1NeuralNetwork}\index{tutorial.NeuralNetwork@{tutorial.NeuralNetwork}}
+
+
+Inheritance diagram for tutorial.\+Neural\+Network\+:
+% FIG 0
+
+
+Collaboration diagram for tutorial.\+Neural\+Network\+:
+% FIG 1
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{classtutorial_1_1NeuralNetwork_afe5b7220f508371795aecabc81681202}\label{classtutorial_1_1NeuralNetwork_afe5b7220f508371795aecabc81681202} 
+{\bfseries \+\_\+\+\_\+init\+\_\+\+\_\+} (self)
+\item 
+\Hypertarget{classtutorial_1_1NeuralNetwork_aaa12244240ce7e9f9a74190f2691ff29}\label{classtutorial_1_1NeuralNetwork_aaa12244240ce7e9f9a74190f2691ff29} 
+{\bfseries forward} (self, x)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\Hypertarget{classtutorial_1_1NeuralNetwork_a0364023074a62cd6ee3aced86a4d5d77}\label{classtutorial_1_1NeuralNetwork_a0364023074a62cd6ee3aced86a4d5d77} 
+{\bfseries flatten}
+\item 
+\Hypertarget{classtutorial_1_1NeuralNetwork_a52669873a1f8ee45d4d18c6eaab6c3ec}\label{classtutorial_1_1NeuralNetwork_a52669873a1f8ee45d4d18c6eaab6c3ec} 
+{\bfseries linear\+\_\+relu\+\_\+stack}
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+tutorial.\+py\end{DoxyCompactItemize}
