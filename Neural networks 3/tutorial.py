@@ -23,6 +23,7 @@ test_data = datasets.FashionMNIST(
 batch_size = 64
 training_data_loader = DataLoader(training_data, batch_size=batch_size)
 test_data_loader = DataLoader(test_data, batch_size=batch_size)
+print(training_data_loader.dataset)
 
 # to print the shape of the data
 for X, y in test_data_loader:
