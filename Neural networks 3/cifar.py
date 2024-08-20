@@ -173,8 +173,8 @@ print(predict_image(preprocess_image(img).to(device)))
 img = Image.open('../data/aeroplane.jpg')
 print(predict_image(preprocess_image(img).to(device)))
 
-img = Image.open('../data/cruise.png')
-print(predict_image(preprocess_image(img).to(device)))
+# img = Image.open('../data/cruise.png')
+# print(predict_image(preprocess_image(img).to(device)))
 
 
     
